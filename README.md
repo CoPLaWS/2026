@@ -1,4 +1,4 @@
-# CoPLaWS 2026 - the 3rd Copenhagen Programming Languages Workshop
+# CoPLaWS 2026 - the 4th Copenhagen Programming Languages Workshop
 
 [CoPLaWS](https://coplaws.github.io) is a series of annual workshops for
 programming language researchers working in the greater Copenhagen area, open to
