@@ -7,12 +7,11 @@ institutions. The aim is to get together and learn about each other's work.
 
 **[CoPLaWS 2026](https://coplaws.github.io/2026)** is the fourth edition of the workshop. It will take place on
 
-- **a turrently DBA date in August** in **Copenhagen** at University of
-  Copenhagen, at a room TBA>.
+- **20th of August** at the **University of Copenhagen** at the northern campus.
+  [Precise location below](#the-room).
 
-
-It will be a full-day event with an optional dinner. More information on the
-dinner will be announced in the future.
+COPLAWS 2026 is be a full-day event with an optional dinner. More information on
+the dinner [below](#dinner).
 
 ## Invited Speaker
 
@@ -57,7 +56,7 @@ the auditorium.
 
 TBA
 
-## CoPLaWS Dinner
+## Dinner
 
 While participation in CoPLaWS is free, the dinner is at the participants' own
 expense. More information is TBA.
