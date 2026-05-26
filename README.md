@@ -37,7 +37,7 @@ process. We will aim for diversity in topics and institutions represented.
 Talk proposals should consist of a title and a one-paragraph abstract. No need
 to submit any PDF.
 
-- **Talk proposal submission link:** TBA
+- **Talk proposal submission link:** [https://forms.gle/dnUUZwxYeiMoxw577](https://forms.gle/dnUUZwxYeiMoxw577)
 - **Talk proposal submission deadline:** 6 August 2026
 - **Notification:** 11 August 2026
 - **Participation registration link:** TBA
