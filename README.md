@@ -5,10 +5,9 @@ programming language researchers working in the greater Copenhagen area, open to
 academics (DTU, KU, ITU, RUC, AAU CPH) and researchers in industry and other
 institutions. The aim is to get together and learn about each other's work.
 
-**[CoPLaWS 2026](https://coplaws.github.io/2026)** is the fourth edition of the workshop. It will take place on
-
-- **20th of August** at the **University of Copenhagen** at the northern campus.
-  [Precise location below](#the-room).
+**[CoPLaWS 2026](https://coplaws.github.io/2026)** is the fourth edition of the
+workshop. It will take place on the **20th of August** at the **University of
+Copenhagen** at the northern campus. [Precise location below](#the-room).
 
 COPLAWS 2026 is be a full-day event with an optional dinner. More information on
 the dinner [below](#dinner).
@@ -26,8 +25,8 @@ TBA
 We invite the submission of abstracts for 20-minute talks on all topics related
 to programming language research.
 
-We encourage also PhD students to submit proposals! We encourage also
-presentations of work-in-progress research!
+We encourage also PhD students to submit proposals, as well as presentations of
+work-in-progress research!
 
 Since there are many programming language researchers in Copenhagen, it is
 possible that we will get more talk proposals than can fit in a day. In that
@@ -42,12 +41,11 @@ to submit any PDF.
 - **Notification:** 11 August 2026
 - **Participation registration link:** TBA
 - **Participation registration deadline:** 13 August 2026
--->
 
 ## The room
 
 The **tentative** venue is in the **HCØ Building** at **Universitetsparken 5**,
-in **Auditorium 03**. The map below shows the path from the front entrance to
+in **Auditorium 01**. The map below shows the path from the front entrance to
 the auditorium.
 
 <img src="map.jpg" alt="HCØ map" width="400"/>
