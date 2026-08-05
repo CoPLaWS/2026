@@ -37,16 +37,16 @@ Talk proposals should consist of a title and a one-paragraph abstract. No need
 to submit any PDF.
 
 - **Talk proposal submission link:** [https://forms.gle/dnUUZwxYeiMoxw577](https://forms.gle/dnUUZwxYeiMoxw577)
-- **Talk proposal submission deadline:** 6 August 2026
-- **Notification:** 11 August 2026
+- **Talk proposal submission deadline:** ~~6 August 2026~~ (**extended**: 12 August)
+- **Notification:** ~~11 August 2026~~ 13 August 2026
 - **Participation registration link:** TBA
-- **Participation registration deadline:** 13 August 2026
+- **Participation registration deadline:** 14 August 2026
 
 ## The room
 
-The **tentative** venue is in the **HCØ Building** at **Universitetsparken 5**,
-in **Auditorium 01**. The map below shows the path from the front entrance to
-the auditorium.
+The venue is in the **HCØ Building** at **Universitetsparken 5**, in
+**Auditorium 01**. The map below shows the path from the front entrance to the
+auditorium.
 
 <img src="map.jpg" alt="HCØ map" width="400"/>
 
