@@ -40,7 +40,9 @@ to submit any PDF.
 - **Talk proposal submission deadline:** ~~6 August 2026~~ (**extended**: 12 August)
 - **Notification:** ~~11 August 2026~~ 13 August 2026
 - **Participation registration link:** TBA
-- **Participation registration deadline:** 14 August 2026
+- **Participation registration deadline:** 17 August 2026
+- **Dinner registration link:** <a href="https://eventsignup.ku.dk/socialdinneratthe4thcopenhagenprogramminglanguagesworkshopcoplaws2026/">here</a>
+- **Dinner registration deadline:** 17 August 2026
 
 ## The room
 
@@ -57,7 +59,12 @@ TBA
 ## Dinner
 
 While participation in CoPLaWS is free, the dinner is at the participants' own
-expense. More information is TBA.
+expense. The dinner takes place at <a
+href="https://www.madklubben.dk/restauranter/koebenhavn/madklubben/vesterbro">Madklubben
+Vesterbro</a>. <a
+href="https://eventsignup.ku.dk/socialdinneratthe4thcopenhagenprogramminglanguagesworkshopcoplaws2026/">Register
+for the dinner here.</a>
+
 
 ## Local Organisers
 
