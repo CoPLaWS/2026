@@ -39,7 +39,7 @@ to submit any PDF.
 - **Talk proposal submission link:** [https://forms.gle/dnUUZwxYeiMoxw577](https://forms.gle/dnUUZwxYeiMoxw577)
 - **Talk proposal submission deadline:** ~~6 August 2026~~ (**extended**: 12 August)
 - **Notification:** ~~11 August 2026~~ 13 August 2026
-- **Participation registration link:** [here](https://docs.google.com/forms/d/e/1FAIpQLScTGwepj5HN3V3uniG9glk_L7yQ3EcPYBiM0MFOZuWomQirlQ/viewform)
+- **Participation registration link:** [here](https://docs.google.com/forms/d/e/1FAIpQLScTGwepj5HN3V3uniG9glk_L7yQ3EcPYBiM0MFOZuWomQirlQ/viewform) (**remember to also register for the dinner below**)
 - **Participation registration deadline:** 19 August 2026
 - **Dinner registration link:** [here](https://eventsignup.ku.dk/socialdinneratthe4thcopenhagenprogramminglanguagesworkshopcoplaws2026/)
 - **Dinner registration deadline:** 17 August 2026
