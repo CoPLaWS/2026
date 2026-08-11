@@ -39,9 +39,9 @@ to submit any PDF.
 - **Talk proposal submission link:** [https://forms.gle/dnUUZwxYeiMoxw577](https://forms.gle/dnUUZwxYeiMoxw577)
 - **Talk proposal submission deadline:** ~~6 August 2026~~ (**extended**: 12 August)
 - **Notification:** ~~11 August 2026~~ 13 August 2026
-- **Participation registration link:** TBA
-- **Participation registration deadline:** 17 August 2026
-- **Dinner registration link:** <a href="https://eventsignup.ku.dk/socialdinneratthe4thcopenhagenprogramminglanguagesworkshopcoplaws2026/">here</a>
+- **Participation registration link:** [here](https://docs.google.com/forms/d/e/1FAIpQLScTGwepj5HN3V3uniG9glk_L7yQ3EcPYBiM0MFOZuWomQirlQ/viewform)
+- **Participation registration deadline:** 19 August 2026
+- **Dinner registration link:** [here](https://eventsignup.ku.dk/socialdinneratthe4thcopenhagenprogramminglanguagesworkshopcoplaws2026/)
 - **Dinner registration deadline:** 17 August 2026
 
 ## The room
@@ -54,7 +54,7 @@ auditorium.
 
 ## Parking
 
-TBA
+Probably not worth trying. The venue is close to bus and metro stops.
 
 ## Dinner
 
@@ -65,15 +65,16 @@ Vesterbro</a>. <a
 href="https://eventsignup.ku.dk/socialdinneratthe4thcopenhagenprogramminglanguagesworkshopcoplaws2026/">Register
 for the dinner here.</a>
 
-
-## Local Organisers
+## Local Organiser
 
 Troels Henriksen (<a href="mailto:athas@diku.dk">athas@diku.dk</a>).
 
 ## Organisers
 
-TBA
+Alceste Scalas, Fritz Henglein, Hugo-Andres Lopez-Acosta, Marco Carbone, Morten
+Rhiger, Rasmus Møgelberg, Anders Schlichtkrull, Troels Henriksen.
 
 ## Sponsor
 
-Your name here?
+CoPLaWS 2026 is sponsored by the [Department of Computer Science at the
+University of Copenhagen](https://www.diku.dk).
