@@ -14,7 +14,17 @@ the dinner [below](#dinner).
 
 ## Invited Speaker
 
-There will be an invited speaker.
+The invited talk will be given by [Peter Sestoft from ITU](https://raspi.itu.dk/people/sestoft/).
+
+**Title:** A history of early Nordic compilers
+
+**Abstract:** We give some highlights of the historical development of compiler
+technology 1950-1965 and its co-evolution with programming languages and
+hardware. Most emphasis is on early developments and the different approaches
+taken by US and European projects, with special attention to the Nordic
+countries. We will relate some of the developments to contemporary societal
+goals, for instance object-oriented programming's roots in the early Norwegian
+nuclear programme.
 
 ## Programme
 
