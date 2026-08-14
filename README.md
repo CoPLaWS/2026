@@ -250,5 +250,6 @@ Rhiger, Rasmus Møgelberg, Anders Schlichtkrull, Troels Henriksen.
 
 ## Sponsor
 
-CoPLaWS 2026 is sponsored by the [Department of Computer Science at the
-University of Copenhagen](https://www.diku.dk).
+CoPLaWS 2026 is sponsored by the [PLTC section](https://diku-dk.github.io/pltc/)
+at the [Department of Computer Science at the University of
+Copenhagen](https://www.diku.dk).
