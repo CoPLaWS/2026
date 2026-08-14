@@ -28,7 +28,171 @@ nuclear programme.
 
 ## Programme
 
-TBA
+<table><thead>
+
+  <tr style="color: black; background-color: #C8DCEF">
+    <td>8:25</td>
+    <td>Breakfast and coffee</td>
+    <td> </td>
+  </tr></thead>
+
+  <tr>
+    <td>8:55</td>
+    <td>Welcome to CoPLaWS 2025</td>
+    <td> </td>
+  </tr>
+
+  <tr style="color: black; background-color: lemonchiffon">
+    <td>9:00</td>
+    <td>Invited talk: <a href="#invited-speaker">Peter Sestoft</a></td>
+    <td><em>A history of early Nordic compilers</em></td>
+  </tr>
+
+  <tr>
+    <td>9:50</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>10:10</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr style="color: black; background-color: #C8DCEF">
+    <td>10:20</td>
+    <td>Coffee break</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>10:45</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>11:05</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>11:25</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>11:45</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr style="color: black; background-color: #C8DCEF">
+    <td>12:05</td>
+    <td>Lunch break at the Niels Bohr Building</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>13:05</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>13:25</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>13:45</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>14:05</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr style="color: black; background-color: #C8DCEF">
+    <td>14:25</td>
+    <td>Coffee break</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>14:50</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>15:10</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>15:30</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>15:50</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr style="color: black; background-color: #C8DCEF">
+    <td>15:50</td>
+    <td>Coffee break</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>16:15</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>16:35</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>16:55</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>17:15</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr style="color: black; background-color: #C8DCEF">
+    <td>17:35</td>
+    <td>End of scientific programme</td>
+    <td></td>
+  </tr>
+
+  <tr style="color: black; background-color: #C8DCEF">
+    <td>18:30</td>
+    <td>Dinner at <a href="#coplaws-dinner"><a href="https://www.madklubben.dk/restauranter/koebenhavn/madklubben/vesterbro">Madklubben Vesterbro</a>, Vesterbrogade 62</a></td>
+    <td> </td>
+  </tr>
+
+</tbody></table>
 
 ## Call for Talks
 
