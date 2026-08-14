@@ -97,97 +97,97 @@ nuclear programme.
   </tr>
 
   <tr>
-    <td>13:05</td>
+    <td>13:15</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>13:25</td>
+    <td>13:35</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>13:45</td>
+    <td>13:55</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>14:05</td>
-    <td></td>
-    <td><em>TBA</em></td>
-  </tr>
-
-  <tr style="color: black; background-color: #C8DCEF">
-    <td>14:25</td>
-    <td>Coffee break</td>
-    <td> </td>
-  </tr>
-
-  <tr>
-    <td>14:50</td>
-    <td></td>
-    <td><em>TBA</em></td>
-  </tr>
-
-  <tr>
-    <td>15:10</td>
-    <td></td>
-    <td><em>TBA</em></td>
-  </tr>
-
-  <tr>
-    <td>15:30</td>
-    <td></td>
-    <td><em>TBA</em></td>
-  </tr>
-
-  <tr>
-    <td>15:50</td>
+    <td>14:15</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
-    <td>15:50</td>
+    <td>14:35</td>
     <td>Coffee break</td>
     <td> </td>
   </tr>
 
   <tr>
+    <td>14:55</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>15:15</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>15:35</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr>
+    <td>15:55</td>
+    <td></td>
+    <td><em>TBA</em></td>
+  </tr>
+
+  <tr style="color: black; background-color: #C8DCEF">
     <td>16:15</td>
+    <td>Coffee break</td>
+    <td> </td>
+  </tr>
+
+  <tr>
+    <td>16:40</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>16:35</td>
+    <td>17:00</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>16:55</td>
+    <td>17:20</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>17:15</td>
+    <td>17:40</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
-    <td>17:35</td>
+    <td>18:00</td>
     <td>End of scientific programme</td>
     <td></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
-    <td>18:30</td>
+    <td>19:15</td>
     <td>Dinner at <a href="#coplaws-dinner"><a href="https://www.madklubben.dk/restauranter/koebenhavn/madklubben/vesterbro">Madklubben Vesterbro</a>, Vesterbrogade 62</a></td>
     <td> </td>
   </tr>
