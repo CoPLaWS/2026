@@ -61,37 +61,37 @@ nuclear programme.
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
-    <td>10:20</td>
+    <td>10:30</td>
     <td>Coffee break</td>
     <td> </td>
   </tr>
 
   <tr>
-    <td>10:45</td>
+    <td>10:55</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>11:05</td>
+    <td>11:15</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>11:25</td>
+    <td>11:35</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
-    <td>11:45</td>
+    <td>11:55</td>
     <td></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
-    <td>12:05</td>
+    <td>12:15</td>
     <td>Lunch break at the Niels Bohr Building</td>
     <td> </td>
   </tr>
