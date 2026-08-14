@@ -35,7 +35,7 @@ nuclear programme.
     <td>Breakfast and coffee</td>
     <td> </td>
   </tr></thead>
-
+<tbody>
   <tr>
     <td>8:55</td>
     <td>Welcome to CoPLaWS 2025</td>
