@@ -98,7 +98,7 @@ nuclear programme.
 
   <tr>
     <td>13:15</td>
-    <td>*Jens Kanstrup Larsen*, Alceste Scalas, Guy Amir, Jules Jacobs, Jana Wagemaker, Nate Foster</td>
+    <td><strong>Jens Kanstrup Larsen</strong>, Alceste Scalas, Guy Amir, Jules Jacobs, Jana Wagemaker, Nate Foster</td>
     <td><em>NEST: Network Enforced Session Types</em></td>
   </tr>
 
