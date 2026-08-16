@@ -50,13 +50,13 @@ nuclear programme.
 
   <tr>
     <td>9:50</td>
-    <td>**Sergei Stepanenko** (AU), Patrick Bahr (ITU), Rasmus Ejlers Møgelberg (ITU)</td>
+    <td><strong>Sergei Stepanenko</strong> (AU), Patrick Bahr (ITU), Rasmus Ejlers Møgelberg (ITU)</td>
     <td><em>Guarded Type Theory in Lean</em></td>
   </tr>
 
   <tr>
     <td>10:10</td>
-    <td>**Francesca Meneghello**, Alessio Galassi, Andrey Rivkin, Christoph Matheja</td>
+    <td><strong>Francesca Meneghello</strong>, Alessio Galassi, Andrey Rivkin, Christoph Matheja</td>
     <td><em>Bridging Probabilistic Programming and Business Process Simulation</em></td>
   </tr>
 
@@ -68,25 +68,25 @@ nuclear programme.
 
   <tr>
     <td>10:55</td>
-    <td>**Jonas Kastberg Hinrichsen**, Elli Anastasiadi</td>
+    <td><strong>Jonas Kastberg Hinrichsen</strong>, Elli Anastasiadi</td>
     <td><em>Interactive Proofmode for Temporal Logic in Rocq</em></td>
   </tr>
 
   <tr>
     <td>11:15</td>
-    <td>Katrine Christensen, Mahsa Varshosaz, and **Raúl Pardo**</td>
+    <td>Katrine Christensen, Mahsa Varshosaz, and <strong>Raúl Pardo</strong></td>
     <td><em>ProbTest: Unit Testing for Probabilistic Programs</em></td>
   </tr>
 
   <tr>
     <td>11:35</td>
-    <td>**Gusts Gustavs Grinbergs**, Alessandro Bruni, Matthew Daggitt</td>
+    <td><strong>Gusts Gustavs Grinbergs</strong>, Alessandro Bruni, Matthew Daggitt</td>
     <td><em>Vehicle with Time: Signal First-Order Logic for Closed-Loop Controller Synthesis</em></td>
   </tr>
 
   <tr>
     <td>11:55</td>
-    <td>Amirreza Hashemi, **Troels Henriksen**</td>
+    <td>Amirreza Hashemi, <strong>Troels Henriksen</strong></td>
     <td><em>Size-directed flattening of nested data parallelism</em></td>
   </tr>
 
@@ -110,7 +110,7 @@ nuclear programme.
 
   <tr>
     <td>13:55</td>
-    <td>**William Henrich Due**, Troels Henriksen, and Cosmin Eugen Oancea</td>
+    <td><strong>William Henrich Due</strong>, Troels Henriksen, and Cosmin Eugen Oancea</td>
     <td><em>What optimisations are worthwhile for filter, partition, and tokenisation on GPU?</em></td>
   </tr>
 
@@ -134,19 +134,19 @@ nuclear programme.
 
   <tr>
     <td>15:15</td>
-    <td>**Oskar Hovmøller Dinesen**, Christian Gram Kalhauge</td>
+    <td><strong>Oskar Hovmøller Dinesen</strong>, Christian Gram Kalhauge</td>
     <td><em>Semantically Descriptive Similarity</em></td>
   </tr>
 
   <tr>
     <td>15:35</td>
-    <td>**Sebastian Mödersheim**, Simon Lund, Alessandro Bruni, Marco Carbone, Rosario Giustolisi</td>
+    <td><strong>Sebastian Mödersheim</strong>, Simon Lund, Alessandro Bruni, Marco Carbone, Rosario Giustolisi</td>
     <td><em>Cryptographic Choreographies</em></td>
   </tr>
 
   <tr>
     <td>15:55</td>
-    <td>**Gusts Gustavs Grinbergs**, Alessandro Bruni, Matthew Daggitt</td>
+    <td><strong>Gusts Gustavs Grinbergs</strong>, Alessandro Bruni, Matthew Daggitt</td>
     <td><em>Vehicle with Time: Signal First-Order Logic for Closed-Loop Controller Synthesis</em></td>
   </tr>
 
@@ -170,13 +170,13 @@ nuclear programme.
 
   <tr>
     <td>17:20</td>
-    <td>Brage Isak Keiserås, Bo Markussen, Ingrid Chieh Yu, Ken Friis Larsen, Maja H. Kirkeby, **Michael Kirkedal Thomsen**</td>
+    <td>Brage Isak Keiserås, Bo Markussen, Ingrid Chieh Yu, Ken Friis Larsen, Maja H. Kirkeby, <strong>Michael Kirkedal Thomsen</strong></td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
     <td>17:40</td>
-    <td>Jakob Holst Svenningsen, **David Gray Marchant**, Michael Kirkedal Thomsen</td>
+    <td>Jakob Holst Svenningsen, <strong>David Gray Marchant</strong>, Michael Kirkedal Thomsen</td>
     <td><em>Language and System for trust relations in maritime sector </em></td>
   </tr>
 
