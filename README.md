@@ -50,44 +50,44 @@ nuclear programme.
 
   <tr>
     <td>9:50</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>**Sergei Stepanenko** (AU), Patrick Bahr (ITU), Rasmus Ejlers Møgelberg (ITU)</td>
+    <td><em>Guarded Type Theory in Lean</em></td>
   </tr>
 
   <tr>
     <td>10:10</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>**Francesca Meneghello**, Alessio Galassi, Andrey Rivkin, Christoph Matheja</td>
+    <td><em>Bridging Probabilistic Programming and Business Process Simulation</em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
     <td>10:30</td>
     <td>Coffee break</td>
-    <td> </td>
+    <td></td>
   </tr>
 
   <tr>
     <td>10:55</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>**Jonas Kastberg Hinrichsen**, Elli Anastasiadi</td>
+    <td><em>Interactive Proofmode for Temporal Logic in Rocq</em></td>
   </tr>
 
   <tr>
     <td>11:15</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>Katrine Christensen, Mahsa Varshosaz, and **Raúl Pardo**</td>
+    <td><em>ProbTest: Unit Testing for Probabilistic Programs</em></td>
   </tr>
 
   <tr>
     <td>11:35</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>**Gusts Gustavs Grinbergs**, Alessandro Bruni, Matthew Daggitt</td>
+    <td><em>Vehicle with Time: Signal First-Order Logic for Closed-Loop Controller Synthesis</em></td>
   </tr>
 
   <tr>
     <td>11:55</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>Amirreza Hashemi, **Troels Henriksen**</td>
+    <td><em>Size-directed flattening of nested data parallelism</em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
@@ -98,26 +98,26 @@ nuclear programme.
 
   <tr>
     <td>13:15</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>*Jens Kanstrup Larsen*, Alceste Scalas, Guy Amir, Jules Jacobs, Jana Wagemaker, Nate Foster</td>
+    <td><em>NEST: Network Enforced Session Types</em></td>
   </tr>
 
   <tr>
     <td>13:35</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>Torben Mogensen</td>
+    <td><em>Partial Evaluation of the Reversible Intermediate Language L4</em></td>
   </tr>
 
   <tr>
     <td>13:55</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>**William Henrich Due**, Troels Henriksen, and Cosmin Eugen Oancea</td>
+    <td><em>What optimisations are worthwhile for filter, partition, and tokenisation on GPU?</em></td>
   </tr>
 
   <tr>
     <td>14:15</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>Marco Carbone</td>
+    <td><em>Session Types and Probabilities </em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
@@ -128,26 +128,26 @@ nuclear programme.
 
   <tr>
     <td>14:55</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>Morten Rhiger</td>
+    <td><em>On the operational semantics of demotion and promotion in staged programming languages</em></td>
   </tr>
 
   <tr>
     <td>15:15</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>**Oskar Hovmøller Dinesen**, Christian Gram Kalhauge</td>
+    <td><em>Semantically Descriptive Similarity</em></td>
   </tr>
 
   <tr>
     <td>15:35</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>**Sebastian Mödersheim**, Simon Lund, Alessandro Bruni, Marco Carbone, Rosario Giustolisi</td>
+    <td><em>Cryptographic Choreographies</em></td>
   </tr>
 
   <tr>
     <td>15:55</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>**Gusts Gustavs Grinbergs**, Alessandro Bruni, Matthew Daggitt</td>
+    <td><em>Vehicle with Time: Signal First-Order Logic for Closed-Loop Controller Synthesis</em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
@@ -158,26 +158,26 @@ nuclear programme.
 
   <tr>
     <td>16:40</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>Ken Friis Larsen</td>
+    <td><em>Proof-Carrying Performance: How to Optimise a Lean Program Without Leaving the Proof Behind</em></td>
   </tr>
 
   <tr>
     <td>17:00</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>Yue Zhou, Hugo A. López</td>
+    <td><em>Behavioural Correspondences between families of Business Process Modelling Languages</em></td>
   </tr>
 
   <tr>
     <td>17:20</td>
-    <td></td>
+    <td>Brage Isak Keiserås, Bo Markussen, Ingrid Chieh Yu, Ken Friis Larsen, Maja H. Kirkeby, **Michael Kirkedal Thomsen**</td>
     <td><em>TBA</em></td>
   </tr>
 
   <tr>
     <td>17:40</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>Jakob Holst Svenningsen, **David Gray Marchant**, Michael Kirkedal Thomsen</td>
+    <td><em>Language and System for trust relations in maritime sector </em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
