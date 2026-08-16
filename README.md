@@ -171,7 +171,7 @@ nuclear programme.
   <tr>
     <td>17:20</td>
     <td>Brage Isak Keiserås, Bo Markussen, Ingrid Chieh Yu, Ken Friis Larsen, Maja H. Kirkeby, <strong>Michael Kirkedal Thomsen</strong></td>
-    <td><em>TBA</em></td>
+    <td><em>Does GCC Compiler Development Pay for Itself? GCC Versions’ Impact on Energy Consumption</em></td>
   </tr>
 
   <tr>
