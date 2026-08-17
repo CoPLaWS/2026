@@ -146,8 +146,8 @@ nuclear programme.
 
   <tr>
     <td>15:55</td>
-    <td><strong>Gusts Gustavs Grinbergs</strong>, Alessandro Bruni, Matthew Daggitt</td>
-    <td><em>Vehicle with Time: Signal First-Order Logic for Closed-Loop Controller Synthesis</em></td>
+    <td></td>
+    <td><em>TBA</em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
