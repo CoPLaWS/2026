@@ -110,7 +110,7 @@ nuclear programme.
 
   <tr>
     <td>13:55</td>
-    <td><strong>William Henrich Due</strong>, Troels Henriksen, and Cosmin Eugen Oancea</td>
+    <td><strong>Lilje Henrich Due</strong>, Troels Henriksen, and Cosmin Eugen Oancea</td>
     <td><em>What optimisations are worthwhile for filter, partition, and tokenisation on GPU?</em></td>
   </tr>
 
