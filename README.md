@@ -127,61 +127,55 @@ nuclear programme.
   </tr>
 
   <tr>
-    <td>14:55</td>
+    <td>15:00</td>
     <td>Morten Rhiger</td>
     <td><em>On the operational semantics of demotion and promotion in staged programming languages</em></td>
   </tr>
 
   <tr>
-    <td>15:15</td>
+    <td>15:20</td>
     <td><strong>Oskar Hovmøller Dinesen</strong>, Christian Gram Kalhauge</td>
     <td><em>Semantically Descriptive Similarity</em></td>
   </tr>
 
   <tr>
-    <td>15:35</td>
+    <td>15:40</td>
     <td><strong>Sebastian Mödersheim</strong>, Simon Lund, Alessandro Bruni, Marco Carbone, Rosario Giustolisi</td>
     <td><em>Cryptographic Choreographies</em></td>
   </tr>
 
   <tr>
-    <td>15:55</td>
-    <td></td>
-    <td><em>TBA</em></td>
+    <td>16:00</td>
+    <td>Ken Friis Larsen</td>
+    <td><em>Proof-Carrying Performance: How to Optimise a Lean Program Without Leaving the Proof Behind</em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
-    <td>16:15</td>
+    <td>16:20</td>
     <td>Coffee break</td>
     <td> </td>
   </tr>
 
   <tr>
-    <td>16:40</td>
-    <td>Ken Friis Larsen</td>
-    <td><em>Proof-Carrying Performance: How to Optimise a Lean Program Without Leaving the Proof Behind</em></td>
-  </tr>
-
-  <tr>
-    <td>17:00</td>
+    <td>16:50</td>
     <td>Yue Zhou, Hugo A. López</td>
     <td><em>Behavioural Correspondences between families of Business Process Modelling Languages</em></td>
   </tr>
 
   <tr>
-    <td>17:20</td>
+    <td>17:10</td>
     <td>Brage Isak Keiserås, Bo Markussen, Ingrid Chieh Yu, Ken Friis Larsen, Maja H. Kirkeby, <strong>Michael Kirkedal Thomsen</strong></td>
     <td><em>Does GCC Compiler Development Pay for Itself? GCC Versions’ Impact on Energy Consumption</em></td>
   </tr>
 
   <tr>
-    <td>17:40</td>
+    <td>17:30</td>
     <td>Jakob Holst Svenningsen, <strong>David Gray Marchant</strong>, Michael Kirkedal Thomsen</td>
     <td><em>Language and System for trust relations in maritime sector </em></td>
   </tr>
 
   <tr style="color: black; background-color: #C8DCEF">
-    <td>18:00</td>
+    <td>17:50</td>
     <td>End of scientific programme</td>
     <td></td>
   </tr>
