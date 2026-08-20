@@ -158,7 +158,7 @@ nuclear programme.
 
   <tr>
     <td>16:50</td>
-    <td>Yue Zhou, Hugo A. López</td>
+    <td>Yue Zhou, <strong>Hugo A. López</strong></td>
     <td><em>Behavioural Correspondences between families of Business Process Modelling Languages</em></td>
   </tr>
 
