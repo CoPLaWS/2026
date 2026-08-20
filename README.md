@@ -104,7 +104,7 @@ nuclear programme.
 
   <tr>
     <td>13:35</td>
-    <td>Torben Mogensen</td>
+    <td><strong>Torben Mogensen</strong>, Christian Påbøl Jacobsen</td>
     <td><em>Partial Evaluation of the Reversible Intermediate Language L4</em></td>
   </tr>
 
